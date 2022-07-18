@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Play;
+  src: url('./assets/fonts/Play-Regular.ttf');
+}
+
+@font-face {
+  font-family: Play-Bold;
+  src: url('./assets/fonts/Play-Bold.ttf');
+}
